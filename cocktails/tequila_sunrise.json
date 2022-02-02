@@ -1,0 +1,17 @@
+{
+  "name": "Tequila Sunrise",
+  "picture": "tequila_sunrise.jpg",
+  "ingredients": [
+    {
+      "Tequila Silver": 15
+    },
+    {
+      "Grenadine": 10
+    },
+    {
+      "Orange Juice": 75
+    }
+  ],
+  "category" :  "TROPICAL"
+
+}
